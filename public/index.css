@@ -1,0 +1,22 @@
+html, body{
+	margin: 0;
+}
+
+#draw{
+	position: relative;
+	height: auto;
+	width: auto;
+	z-index: 2;
+}
+
+.hello{
+	position: absolute;
+	z-index: -2;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+
+h1{
+	text-align: center;
+}
